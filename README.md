@@ -1,4 +1,4 @@
-# Go Book
+# Go Book :)
 **Name:** *Phatthraphon Sangon*
 
 **Nickname:** *T!CK*
