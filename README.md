@@ -9,4 +9,5 @@
 * Chapter2-2: My name ID program
 ## Chapter 3
 * Chapter3-1: Zero Value
+* Chapter3-1: String
 ## Chapter 4  
