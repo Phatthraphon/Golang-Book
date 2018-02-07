@@ -9,5 +9,6 @@
 * Chapter2-2: My name ID program
 ## Chapter 3
 * Chapter3-1: Zero Value
-* Chapter3-1: String
+* Chapter3-2: String
+* Chapter3-3: Floating pointsgit
 ## Chapter 4  

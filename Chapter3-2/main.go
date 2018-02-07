@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(">>>>>>>>>>> g <<<<<<<<<<<")
+	fmt.Println(">>>>>>>>>>> String <<<<<<<<<<<")
 	backticks := `HELLO WORLD!,
 Today is good day.`
 	fmt.Println(backticks)
