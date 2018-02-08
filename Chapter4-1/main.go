@@ -19,4 +19,22 @@ func main() {
 	fmt.Println(z)
 	fmt.Printf("Type: %T\n", z)
 
+	//const
+	//const t string = "HELLO WORLD"
+	//t = "Other String"
+
+	var (
+		a = 5
+		b =10
+		c = 15
+	)
+
+	fmt.Println(a,b,c)
+	fmt.Println(a+b+c)
+
+	v1,v2  := "first","sec"
+	v1,v2 = v2,v1
+	fmt.Println(v1)
+	fmt.Println(v2)
+
 }

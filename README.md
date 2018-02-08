@@ -11,4 +11,5 @@
 * Chapter3-1: Zero Value
 * Chapter3-2: String
 * Chapter3-3: Floating point
-## Chapter 4  
+## Chapter 4 
+* Chapter4-1: Variable - Declaration
