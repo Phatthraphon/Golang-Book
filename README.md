@@ -17,3 +17,5 @@
 ## Chapter 5
 * Chapter5-1: Condition For loop
 * Chapter5-2: Condition If 
+* Chapter5-3: Condition Switch
+* Chapter5-4: Condition Random
